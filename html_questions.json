@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What Does .NET Stand For?",
+    "answer_1": "Network Technology",
+    "answer_2": "Dot Network",
+    "answer_3": "New Technology",
+    "answer_4": "Digital Network",
+    "right_answer": "Dot Network"
+  },
+  {
+    "title": "Which Language Is Commonly Used for .NET Development?",
+    "answer_1": "C#",
+    "answer_2": "Python",
+    "answer_3": "PHP",
+    "answer_4": "Ruby",
+    "right_answer": "C#"
+  },
+  {
+    "title": "What Is ASP.NET Core?",
+    "answer_1": "A Database Management System",
+    "answer_2": "A Web Development Framework",
+    "answer_3": "A Programming Language",
+    "answer_4": "An Operating System",
+    "right_answer": "A Web Development Framework"
+  },
+  {
+    "title": "Which Tool Is Used to Manage .NET Project Dependencies?",
+    "answer_1": "npm",
+    "answer_2": "NuGet",
+    "answer_3": "Maven",
+    "answer_4": "pip",
+    "right_answer": "NuGet"
+  },
+  {
+    "title": "What Is Entity Framework Core?",
+    "answer_1": "A Frontend Framework",
+    "answer_2": "An ORM for .NET",
+    "answer_3": "A Web Browser",
+    "answer_4": "A Testing Tool",
+    "right_answer": "An ORM for .NET"
+  },
+  {
+    "title": "Which Keyword Is Used to Define a Class in C#?",
+    "answer_1": "object",
+    "answer_2": "class",
+    "answer_3": "struct",
+    "answer_4": "define",
+    "right_answer": "class"
+  },
+  {
+    "title": "Which Interface Is Commonly Used for Dependency Injection in ASP.NET Core?",
+    "answer_1": "IServiceCollection",
+    "answer_2": "IRepository",
+    "answer_3": "IDependency",
+    "answer_4": "IInjector",
+    "right_answer": "IServiceCollection"
+  },
+  {
+    "title": "Which File Commonly Contains Application Configuration in an ASP.NET Core Project?",
+    "answer_1": "config.xml",
+    "answer_2": "settings.json",
+    "answer_3": "appsettings.json",
+    "answer_4": "application.config",
+    "right_answer": "appsettings.json"
+  },
+  {
+    "title": "Which HTTP Method Is Commonly Used to Retrieve Data from an API?",
+    "answer_1": "POST",
+    "answer_2": "PUT",
+    "answer_3": "GET",
+    "answer_4": "DELETE",
+    "right_answer": "GET"
+  },
+  {
+    "title": "What Is LINQ Used For in .NET?",
+    "answer_1": "Creating User Interfaces",
+    "answer_2": "Querying Data",
+    "answer_3": "Managing Servers",
+    "answer_4": "Compiling CSS",
+    "right_answer": "Querying Data"
+  }
+]
