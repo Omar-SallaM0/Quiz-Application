@@ -25,7 +25,7 @@ function getQuestions(){
 
             AddQuestionData(QuesionswithAnswers[currentIndex],qCount);
 
-            countdown(5,qCount);
+            countdown(8,qCount);
 
             submitBtn.onclick= function(){
                 let theRightAns = QuesionswithAnswers[currentIndex].right_answer;
@@ -39,7 +39,7 @@ function getQuestions(){
                 
                 clearInterval(countdownInterval);
                 
-                countdown(5,qCount);
+                countdown(8,qCount);
                 
                 ShowResult(qCount);
 
@@ -109,6 +109,7 @@ function checkAnswer(rAnswer,cot){
     }
     if(rAnswer===theChoosenAnswer){
         rightAnswers++;
+        console.log(rightAnswers);
     }
 }
 function HandleBullets(){
