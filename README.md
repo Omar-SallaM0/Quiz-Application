@@ -109,6 +109,8 @@ The answers are retrieved from the JSON object using template literals:
 obj[`answer_${i}`]
 ```
 
+<img width="2137" height="1535" alt="Screenshot 2026-09-08 175141" src="https://github.com/user-attachments/assets/997869d8-e5ea-4d9a-a64c-9c68df2f2670" />
+
 ### 4. Check the Answer
 
 When the user clicks **Submit**, the selected answer is compared with the correct answer stored in the JSON file.
@@ -139,10 +141,6 @@ After answering all questions, the application displays one of three results:
 * 🟣 **Perfect**
 * 🔴 **Bad**
 
-  
-  <img width="2085" height="522" alt="Screenshot 2026-09-08 175217" src="https://github.com/user-attachments/assets/64db620d-8b5c-4d4a-bdd1-a75805223936" />
-
-
 The final score is displayed as:
 
 ```text
@@ -160,6 +158,8 @@ The application evaluates the user's score using the following logic:
 | Perfect | All questions answered correctly            |
 | Good    | More than half of the questions are correct |
 | Bad     | Half or fewer questions are correct         |
+
+<img width="2085" height="522" alt="Screenshot 2026-09-08 175217" src="https://github.com/user-attachments/assets/64db620d-8b5c-4d4a-bdd1-a75805223936" />
 
 ---
 
